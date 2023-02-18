@@ -1,0 +1,16 @@
+{
+  "name": "richpresenceJS",
+  "version": "2.0.0",
+  "description": "discord rpc made by scab#0001",
+  "main": "richpresence.js",
+  "scripts": {
+    "test": "node richpresence.js"
+  },
+  "author": "scab#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.10.6",
+    "discordrpcgenerator": "^1.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
